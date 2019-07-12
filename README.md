@@ -12,8 +12,8 @@ A Horizontal Scene Text Detector software based on CNN
 * Put images into img folder;
 * Run `main.py` file;
 * When the Detection complete, there will be two new folders:
-    - result_img folder keeps the images which marked by bounding box;
-    - result_txt folder keeps some txt files which contains coordinates of each bounding box in each image.
+    - `result_img` folder keeps the images which marked by bounding box;
+    - `result_txt` folder keeps some txt files which contains coordinates of each bounding box in each image.
 
 ## File Description
 * `examples`: store some examples;
@@ -40,10 +40,10 @@ A Horizontal Scene Text Detector software based on CNN
 * **从[百度网盘](https://pan.baidu.com/s/1zSCXXsky98t_qBrQRK1cpQ)下载模型文件, 提取码：8p6u**
 * 将模型文件放入`model`文件夹；
 * 将需要检测的图像放入img文件夹;
-* 运行main.py文件;
+* 运行`main.py`文件;
 * 检测完成后，会得到两个新的文件夹:
-    - result_img文件夹保存标有包围框的图像;
-    - result_txt文件夹保存每个图像中文本包围框所在的坐标。
+    - `result_img`文件夹保存标有包围框的图像;
+    - `result_txt`文件夹保存每个图像中文本包围框所在的坐标。
 
 ## 文件描述
 * `examples`: 保存部分示例结果;
