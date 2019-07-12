@@ -7,6 +7,8 @@ A Horizontal Scene Text Detector software based on CNN
 * PyQT5
 
 ## How to use it
+* **Download model file from [BaiduNetDisk](https://pan.baidu.com/s/1zSCXXsky98t_qBrQRK1cpQ), password: 8p6u**
+* Put the model file into `model` folder;
 * Put images into img folder;
 * Run `main.py` file;
 * When the Detection complete, there will be two new folders:
@@ -15,7 +17,7 @@ A Horizontal Scene Text Detector software based on CNN
 
 ## File Description
 * `examples`: store some examples;
-* `img`: a folder which keeps the images waiting for detected;
+* `img`: a folder which keeps original images;
 * `model`: contains a PyTorch model;
 * `config.py`: some configuration of the project;
 * `dataset.py & datautils.py`: process image data;
@@ -35,6 +37,8 @@ A Horizontal Scene Text Detector software based on CNN
 * PyQT5
 
 ## 使用方式
+* **从[百度网盘](https://pan.baidu.com/s/1zSCXXsky98t_qBrQRK1cpQ)下载模型文件, 提取码：8p6u**
+* 将模型文件放入`model`文件夹；
 * 将需要检测的图像放入img文件夹;
 * 运行main.py文件;
 * 检测完成后，会得到两个新的文件夹:
