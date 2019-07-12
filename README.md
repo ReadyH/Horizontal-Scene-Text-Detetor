@@ -7,8 +7,8 @@ A Horizontal Scene Text Detector software based on CNN
 * PyQT5
 
 ## How to use it
-* put images into img folder;
-* run `main.py` file;
+* Put images into img folder;
+* Run `main.py` file;
 * When the Detection complete, there will be two new folders:
     - result_img folder keeps the images which marked by bounding box;
     - result_txt folder keeps some txt files which contains coordinates of each bounding box in each image.
