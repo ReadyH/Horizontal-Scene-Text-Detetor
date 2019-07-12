@@ -1,5 +1,6 @@
 from PyQt5.QtWidgets import (QApplication, QWidget, QLabel, QHBoxLayout, QPushButton, QLineEdit, 
                             QVBoxLayout,QMessageBox, QToolTip, QDialog, QFileDialog, QMainWindow)
+
 import sys
 import os
 import detect
